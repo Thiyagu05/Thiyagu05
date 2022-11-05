@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **thiyagucseraju@gmail.com**
 
-- ⚡ Fun fact **keep smile**
+- ⚡ Fun fact **keep smile**<img align="right" alt="thankyou" width="400"
+ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
