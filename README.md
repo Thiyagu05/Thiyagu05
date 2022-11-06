@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm thiyagarajan</h1>
-<h3 align="center">A passionate frontend developer from India looking for interesting problems</h3>
+<h3 align="center">A passionate developer from India looking for interesting problems</h3>
 <img align="right" alt="thankyou" width="400"
  src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiyagu05&label=Profile%20views&color=0e75b6&style=flat" alt="thiyagu05" /> </p>
