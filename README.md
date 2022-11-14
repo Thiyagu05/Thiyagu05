@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiyagu05&show_icons=true&locale=en" alt="thiyagu05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiyagu05&" alt="thiyagu05" /></p>
+<p><img align="center" src="https://i.gifer.com/origin/48/48db0d61a739e124de901bcd10ca1484_w200.webp" alt="thiyagu05" /></p>
