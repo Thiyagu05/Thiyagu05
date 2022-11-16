@@ -17,7 +17,7 @@
 - 📫 How to reach me **thiyagucseraju@gmail.com**
 
 - ⚡ Fun fact **keep smile*MAKE FUN**
-
+<marquee>open your creativity to make your own path</marquee>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
