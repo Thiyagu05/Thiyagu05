@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thiyagu05](https://github.com/Thiyagu05)
 
-- 💬 Ask me about **cloud related**
+- 💬 Ask me about **cloud related and frontend design**
 
 - 📫 How to reach me **thiyagucseraju@gmail.com**
 
